@@ -27,3 +27,4 @@ const getCSS = (variavel) => {
     plot_bgcolor: getCSS('--bg-color')
     paper_bgcolor: getCSS('--bg-color')
 }
+import { getCSS, tickConfig } from "./common.js"
